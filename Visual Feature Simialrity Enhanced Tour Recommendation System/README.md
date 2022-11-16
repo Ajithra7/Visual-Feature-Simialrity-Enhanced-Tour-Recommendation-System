@@ -1,1 +1,1 @@
-# Visual-Similarity-Based-Recommendation-System
+# Visual Feature Simliarity Enhanced Tour Recommendation System
